@@ -1,0 +1,30 @@
+.navbar{
+    background-color: #FCF2DE;
+}
+
+.quem-somos{
+    background-color: #FAFAF9;
+    font-family: 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.textoquemsomos{
+    padding-top: 20px;
+}
+
+.parceiros{
+    margin-top: 20px;
+    background-color: #FAFAF9;
+    font-family: 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.servicos{
+    margin-top: 20px;
+    background-color: #FAFAF9;
+    font-family: 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
