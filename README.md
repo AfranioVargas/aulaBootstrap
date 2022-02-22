@@ -1,2 +1,1 @@
-# aulaBootstrap
-Utilizando Bootstarp
+Desenvolvi este projeto em HTML5 CSS3 com o framework Bootstrap. Trata-se de uma page simulando uma apresentação básica de uma empresa voltada a consertos. Fiz a personalização de fontes, imagens, logos, links e layout. Realizei pesquisas adicionais em getbootstrap.com, pexels.com e htmlcolorcodes.com.
